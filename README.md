@@ -44,5 +44,5 @@ Currently based in Brazil 🇧🇷 · Open to **remote opportunities worldwide**
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ana%20Paula%20Borges-0A66C2?style=flat&logo=linkedin)]([https://linkedin.com/in/ana-paula-d-araújo-borges])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ana%20Paula%20Borges-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ana-paula-d-araújo-borges)
 [![Email](https://img.shields.io/badge/Email-contact-D14836?style=flat&logo=gmail)](mailto:ap.daraujo@gmail.com)
